@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi there, I'm Lokesh! 👋
+
+# Hey Hi, I'm Lokesh! 👋
 
 **Aspiring Software Developer | Passionate about Building Scalable Solutions**
 
