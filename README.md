@@ -14,7 +14,7 @@ I'm a curious and dedicated developer who loves to transform complex problems in
 ## 🛠️ Tech Stack & Tools
 
 **Languages:**
-`JavaScript` `Python` `Java` `HTML` `CSS` `SQL` `c++` `Java`
+`JavaScript` `Python` `Java` `HTML` `CSS` `SQL` `c++`
 
 **Frameworks & Libraries:**
 `React` `Node.js` `Express.js` `Tailwind CSS` `Bootstrap`
