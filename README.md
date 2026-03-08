@@ -31,7 +31,7 @@ I'm a curious and dedicated developer who loves to transform complex problems in
 
 I'm always open to discussing technology, new opportunities, or just having a friendly chat.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lokesh-t-1a9586294)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-gnanam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lokesht.vercel.app/)
 
 ---
